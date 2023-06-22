@@ -1,9 +1,6 @@
 package task_01.class_room;
 
 public class GoodPupil extends Pupil {
-    public GoodPupil() {
-    }
-
     public GoodPupil(String name) {
         super(name);
     }

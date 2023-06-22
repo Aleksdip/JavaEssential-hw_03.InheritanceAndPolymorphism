@@ -1,10 +1,6 @@
 package task_01.class_room;
 
 public class ExcellentPupil extends Pupil {
-    public ExcellentPupil() {
-
-    }
-
     public ExcellentPupil(String name) {
         super(name);
     }
